@@ -1,0 +1,194 @@
+body{
+  margin: 0;
+  background-color: gold;
+  text-align: center;
+}
+.top-container{
+  position: relative;
+  width: 1365px;
+  height: 50px;
+  background-color:#C8C6C6;
+  margin-top: 10px;
+}
+.mid-container{
+  position: relative;
+  width: 1365px;
+  height: 450px;
+  background-color:grey;
+  margin-top: 0;
+}
+.bottom-container{
+  position: relative;
+  width: 1365px;
+  height: 40px;
+}
+.copy1{
+  position: absolute;
+  color: white;
+  left: 620px;
+  margin-top: 10px;
+}
+.header1{
+ color: white;
+}
+.box1{
+  position: absolute;
+  height: 30px;
+  width: 240px;
+  left: 20px;
+  top: 10px;
+}
+.box2{
+  position: absolute;
+  height: 30px;
+  width: 240px;
+  left: 290px;
+  top: 10px;
+}
+.box3{
+  position: absolute;
+  height: 30px;
+  width: 240px;
+  left:560px;
+  top: 10px;
+}
+.box4{
+  position: absolute;
+  height: 30px;
+  width: 240px;
+  left: 830px;
+  top: 10px;
+}
+.box5{
+  position: absolute;
+  height: 30px;
+  width: 240px;
+  left: 1100px;
+  top: 10px;
+}
+.box6{
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  left:15px;
+  margin-top:25px;
+}
+.box7{
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  left:480px;
+  margin-top: 25px;
+}
+.box8{
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  left:950px;
+  margin-top: 25px;
+}
+.box9{
+  position: absolute;
+  height: 30px;
+  width: 350px;
+  left:40px;
+  margin-top:370px;
+  border:solid 1px;
+}
+.box10{
+  position: absolute;
+  height: 30px;
+  width: 350px;
+  left:505px;
+  margin-top:370px;
+  border:solid 1px;
+}
+.box11{
+  position: absolute;
+  height: 30px;
+  width: 350px;
+  left:975px;
+  margin-top: 370px;
+  border: solid 1px;
+}
+.deer{
+  position:absolute;
+  width:370px;
+  height: 200px;
+  left: 30px;
+  margin-top: 40px;
+}
+.panda{
+  position:absolute;
+  width:370px;
+  height: 200px;
+  left: 495px;
+  margin-top: 40px;
+}
+.horse{
+  position:absolute;
+  width:370px;
+  height: 200px;
+  left: 965px;
+  margin-top: 40px;
+}
+.header2{
+  position: absolute;
+  left: 110px;
+  margin-top: 13px;
+  color: gold;
+}
+.header3{
+  position: absolute;
+  left: 385px;
+    margin-top: 13px;
+  color: gold;
+}
+.header4{
+  position:absolute;
+  left: 660px;
+    margin-top: 13px;
+  color: gold;
+}
+.header5{
+  position: absolute;
+  left: 920px;
+    margin-top: 13px;
+  color: gold;
+}
+.header6{
+  position: absolute;
+  left: 1170px;
+    margin-top: 13px;
+  color: gold;
+}
+.header7{
+  position: absolute;
+  left: 170px;
+  margin-top: 378px;
+}
+.header8{
+  position: absolute;
+  left:650px;
+  margin-top: 378px;
+}
+.header9{
+  position: absolute;
+  left: 1110px;
+  margin-top: 378px;
+}
+.content{
+  position: absolute;
+  margin-top:250px;
+  left: 80px;
+}
+.next{
+  position: absolute;
+  margin-top: 250px;
+  left:550px;
+}
+.we{
+  position: absolute;
+  margin-top:250px;
+  left: 1020px;
+}
